@@ -1,1 +1,4 @@
 .next/
+cypress/e2e
+pages/
+components/
